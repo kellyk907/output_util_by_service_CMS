@@ -13,5 +13,7 @@ aggregate and non-data rows, and conversion of utilization fields to numeric for
 Utilization metrics were computed in Python (pandas) and independently validated using
 SQL (SQLite) to ensure consistency and transparency.
 
+Utilization metrics were validated using SQL (SQLite) queries executed within the analysis notebook.
+
 **Tools:** Python, pandas, matplotlib, SQLite  
 **Data Source:** CMS Program Statistics – Medicare Outpatient Facilities
