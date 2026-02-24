@@ -1,4 +1,4 @@
-# output_util_by_service_CMS
+## Utilization of outpatient services in CMS Progam Stats
 CMS Medicare outpatient utilization analysis by service type using Python and SQL.
 
 ## CMS Medicare Outpatient Utilization Analysis (2023)
